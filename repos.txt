@@ -1,0 +1,10 @@
+
+git clone https://android.googlesource.com/platform/frameworks/native
+2600208a1609a06105d958528dc1178dbcb3fa31
+
+git clone https://android.googlesource.com/platform/hardware/libhardware
+6913905aca0e2915e8ddadba90ffbd3e329336df
+
+git clone https://android.googlesource.com/platform/system/core
+c53d859120c1ae3355533293ef72a2db341246ea
+
